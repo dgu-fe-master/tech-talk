@@ -13,7 +13,7 @@
 <tr>
   <td align=center>
     <a href="https://github.com/99-zziy">
-    <img src="https://github.com/99-zziy.png" width="200px" />
+    <img src="https://github.com/99-zziy.png" width="100px" />
     <br/>
     FE 
     <br/>
@@ -23,7 +23,7 @@
  
   <td align=center>
     <a href="https://github.com/kimyouknow">
-    <img src="https://github.com/kimyouknow.png" width="200px" />
+    <img src="https://github.com/kimyouknow.png" width="100px" />
     <br/>
     FE 
     <br/>
@@ -33,7 +33,7 @@
   
   <td align=center>
     <a href="https://github.com/wonho1401">
-    <img src="https://github.com/wonho1401.png" width="200px"  />
+    <img src="https://github.com/wonho1401.png" width="100px"  />
     <br/>
     FE 
     <br/>
@@ -43,7 +43,7 @@
   
   <td align=center>
     <a href="https://github.com/HyewonKkang">
-    <img src="https://github.com/HyewonKkang.png" width="200px"  />
+    <img src="https://github.com/HyewonKkang.png" width="100px"  />
     <br/>
     FE 
     <br/>
