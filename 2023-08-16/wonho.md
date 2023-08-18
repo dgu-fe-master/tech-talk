@@ -42,3 +42,7 @@ srcset을 활용하여 반응형 이미지를 생성해 다양한 디바이스 �
 
 하지만 간단하면서도 성능이 좋은 이미지 최적화를 위한다면 .. Next를 사용하면 되겠다 ..
 
+## 참고 자료
+
+https://fe-developers.kakaoent.com/2022/220714-next-image/
+https://oliveyoung.tech/blog/2021-11-22/How-to-Improve-Web-Performance-with-Image-Optimization/
