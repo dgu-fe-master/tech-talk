@@ -30,6 +30,7 @@ const req2 = axios.post('서버주소', { obj2 });
 const req3 = axios.post('서버주소', { obj3 });
 const req4 = axios.post('서버주소', { obj4 });
 const req5 = axios.post('서버주소', { obj5 });
+
 Promise.all([req1, req2, req3, req4, req5])
    .then((result) => console.log(result))
    .catch((err) => console.log(err));
